@@ -37,7 +37,7 @@
     "get-value": "^2.0.6",
     "graceful-fs": "^4.1.11",
     "is-buffer": "^1.1.4",
-    "kind-of": "^3.1.0",
+    "kind-of": "^6.0.3",
     "load-pkg": "^3.0.1",
     "parser-front-matter": "^1.6.2",
     "resolve-glob": "^0.1.8",
