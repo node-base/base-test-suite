@@ -47,7 +47,7 @@
     "templates": "^1.2.0",
     "through2": "^2.0.3",
     "vinyl": "^2.0.1",
-    "yargs-parser": "^4.2.1"
+    "yargs-parser": "^19.0.4"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
